@@ -16,6 +16,7 @@ NEWSPIDER_MODULE = 'automartco.spiders'
 
 FEED_FORMAT = 'xml'
 FEED_URI = 'items.xml'
+gitVersionCode = '0.0.1'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
