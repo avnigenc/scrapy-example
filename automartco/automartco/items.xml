@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ <waa2>
+    <ad>
+        <id> <![CDATA[...]]></id>
+        <url> <![CDATA[...]]></url>
+        <title> <![CDATA[...]]></title>
+        <content> <![CDATA[...]]></content>
+        <make> <![CDATA[...]]></make>
+        <model> <![CDATA[...]]></model>
+        <version> <![CDATA[...]]></version>
+        <price unit="currency"><![CDATA[...]]></price>
+        <city> <![CDATA[...]]></city>
+        <district> <![CDATA[...]]></district>
+        <date> <![CDATA[...]]></date>
+        <color> <![CDATA[...]]></color>
+        <year> <![CDATA[...]]></year>
+        <mileage unit="km"><![CDATA[...]]></mileage>
+        <doors> <![CDATA[...]]></doors>
+        <fuel> <![CDATA[...]]></fuel>
+        <transmission> <![CDATA[...]]></transmission>
+        <engine_size> <![CDATA[...]]></engine_size>
+        <power> <![CDATA[...]]></power>
+        <body_type> <![CDATA[...]]></body_type>
+        <is_new> <![CDATA[...]]></is_new>
+        <pictures>
+            <picture> <![CDATA[...]]></picture>
+            <picture> <![CDATA[...]]></picture>
+            <picture> <![CDATA[...]]></picture>
+        </pictures>
+    </ad>
+ </waa2>
